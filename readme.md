@@ -19,5 +19,5 @@ pip install -r requirements.txt
 ### Collaborators:
 
 - Rohan Kalbag
-- Bansh Baboon
-- Snakalp Bhamru
+- Vansh Kapoor
+- Snakalp Bhamare
