@@ -20,4 +20,4 @@ pip install -r requirements.txt
 
 - Rohan Kalbag
 - Vansh Kapoor
-- Snakalp Bhamare
+- Sankalp Bhamare
