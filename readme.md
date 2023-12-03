@@ -1,19 +1,14 @@
-# EE782 Project
+# Deep Recurrent Q-Learning for Partially Observable Markov Decision Processes
 
-### How to Setup:
+## EE782 : Advanced Topics in Machine Learning 
 
-### Locally
+
+### Environment Setup 
 
 ```bash
 python3 -m venv mlproj
 source mlproj/bin/activate
 pip install -r requirements.txt
-```
-
-### On Google Colab
-
-```bash
-!pip install -r requirements.txt
 ```
 
 ### Collaborators:

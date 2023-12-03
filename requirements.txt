@@ -1,0 +1,6 @@
+swig
+gymnasium[atari]
+gymnasium[accept-rom-license]
+matplotlib
+torch
+numpy
