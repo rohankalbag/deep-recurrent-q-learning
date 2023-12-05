@@ -18,6 +18,13 @@ complemented by theoretical explainations. Additionally, an efficient windowed e
 bootstrapped sequential updates is proposed to optimize GPU
 memory utilization
 
+> Watch our agents playing the game in action
+
+![assault](https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/11845492-2464-419e-b14a-26c98a813fd3)
+
+![bowling](https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/4607b58c-9502-4a6b-9e15-5bfe1f9cf93a)
+
+
 ### Environment Setup 
 
 ```bash
