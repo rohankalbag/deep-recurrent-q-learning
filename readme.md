@@ -34,6 +34,9 @@ source mlproj/bin/activate
 pip install -r requirements.txt
 ```
 
+> Link to [Jupyter Notebook](https://github.com/rohankalbag/deep-recurrent-q-learning-for-pomdps/blob/main/EE782.ipynb)
+> Detailed [Report](https://github.com/rohankalbag/deep-recurrent-q-learning-for-pomdps/blob/main/Report.pdf) with Code, Experimentation and Results
+
 ### Collaborators:
 
 - Rohan Kalbag
