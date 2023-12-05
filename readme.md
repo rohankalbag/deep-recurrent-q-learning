@@ -23,7 +23,7 @@ memory utilization
 
 Assault-v5           |  Bowling 
 :-------------------------:|:-------------------------:
-<img src="https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/11845492-2464-419e-b14a-26c98a813fd3" width=250></img> | <img src="https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/4607b58c-9502-4a6b-9e15-5bfe1f9cf93a" width=250></img> 
+<img src="https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/11845492-2464-419e-b14a-26c98a813fd3" width=425></img> | <img src="https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/4607b58c-9502-4a6b-9e15-5bfe1f9cf93a" width=425></img> 
 
 
 ### Environment Setup 
