@@ -12,8 +12,8 @@ vanilla implementation outlined in the [original paper](https://arxiv.org/abs/15
 [Assault-v5](https://gymnasium.farama.org/environments/atari/assault/) and [Bowling](https://gymnasium.farama.org/environments/atari/bowling/), where game difficulty scales with player
 proficiency. Comparative analysis between the convergence of our
 optimized reward function and the vanilla version is conducted
-using StepLR and CosineAnnealingLR learning rate schedulers,
-complemented by theoretical explainations. Additionally, an efficient windowed episodic memory implementation employing
+using [StepLR](https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.StepLR.html) and [CosineAnnealingLR](https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.CosineAnnealingWarmRestarts.html) learning rate schedulers,
+complemented by theoretical explanations. Additionally, an efficient windowed episodic memory implementation employing
 bootstrapped sequential updates is proposed to optimize GPU
 memory utilization
 
