@@ -22,9 +22,9 @@ memory utilization
 ### Watch our agent play in action
 
 
-Assault-v5            |  Bowling 
+Assault-v5           |  Bowling 
 :-------------------------:|:-------------------------:
-![](https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/11845492-2464-419e-b14a-26c98a813fd3)  |  ![](https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/4607b58c-9502-4a6b-9e15-5bfe1f9cf93a)
+<img src="https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/11845492-2464-419e-b14a-26c98a813fd3" width=250></img> | <img src="https://github.com/rohankalbag/deep-recurrent-q-learning/assets/46604893/4607b58c-9502-4a6b-9e15-5bfe1f9cf93a" width=250></img> 
 
 
 ### Environment Setup 
